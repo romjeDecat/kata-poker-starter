@@ -1,0 +1,28 @@
+= QUICKSTART KATA POKER
+
+
+== TDD
+
+All kata should be made following TDD practices:
+
+- RED
+- GREEN
+- REFACTOR
+
+== Code provided
+Just as  a quickstart for tests (avoid to create many boring code) and to have  common names
+Code provided is :
+
+- 2 enums for colors & ranks
+- what is a card
+- a few testing hands (should cover most of the tests)
+
+== Playing the kata
+For each new exercise :
+
+- create the test
+- make the code compile
+- relaunch the tests
+- refactor if needed
+
+=

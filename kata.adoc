@@ -1,0 +1,25 @@
+= Poker hand kata
+
+
+Basic data structure handling, refactoring, functions composing
+
+== Step 1: check hand for pair
+
+== Step 2  : Check hand for 3 of a kind
+
+== Step 3 : check hand for 4 of a kind
+
+== Step 4 : Check for 2 pairs
+
+== Step 5 : Check for full house
+
+New difficult point here, ACE  value!! Refactoring, new data structure handling, HoF
+
+== Step 6 : Check for straight flush
+
+== Step 8 : Check for straights
+
+==  Step 8 : Check for royal flush
+
+
+Thhat 's all folks
