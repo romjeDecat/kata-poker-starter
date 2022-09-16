@@ -11,7 +11,7 @@ import java.util.List;
  */
 public class PokerHandsTestssuite {
     private static final List<Card> fooCards= new ArrayList<>(5);
-    private  Hand fooHand;
+    private Hand fooHand;
 
     private static final  List<Card> basicPair = new ArrayList<>(5);
     private Hand basicPairHand;
