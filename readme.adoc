@@ -25,4 +25,21 @@ For each new exercise :
 - relaunch the tests
 - refactor if needed
 
-=
+
+== Working withe kata
+
+Master repository will retain stable and you should not commit to this repository (you can't)
+So please use the flowwing strategy:
+
+- fork the original repository
+- work on this repository as needed (commit locally and then push to your remote)
+- if you want to see someone else work then use the github widget to find all other forks
+- then add as a renote  repository the target fork
+
+Now you can get solutions fro; other repositories and use IntelliJ or git diff features to see
+how other developers coded this kata.
+
+So no need to push to the main repository & no need to send PRs ...
+Doing this is like contributing to open source software (it is one of the possible workflows)
+
+I would like to see naby forks..
